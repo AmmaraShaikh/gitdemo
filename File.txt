@@ -1,8 +1,8 @@
-hello world
+hello world!
 
-change ->in feature update bug fix
-change -> for bug1
-change -> for bug2
+change: ->in feature update bug fix
+change :-> for bug1
+change :-> for bug2
 
 change-> in feature update bug fix
 change 2->for bug1
