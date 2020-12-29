@@ -1,2 +1,4 @@
 hello world
-change in feature update bug fix
+change ->in feature update bug fix
+chnge -> for bug1
+chnge -> for bug2
