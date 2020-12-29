@@ -1,3 +1,4 @@
 welcome to git
-change to test simple
+change to -> test simple
 change to check pull operation
+change 3 to test rebase with remote master and localmaster using rebase
