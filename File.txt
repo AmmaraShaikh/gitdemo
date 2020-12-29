@@ -1,10 +1,11 @@
 hello world
 
 change ->in feature update bug fix
-chnge -> for bug1
-chnge -> for bug2
+change -> for bug1
+change -> for bug2
 
 change-> in feature update bug fix
 change 2->for bug1
 change 3 -> fix bug2 by teammate
 change 4 -> fix
+change 5 -> added a's in chng by teammate for test rebase
